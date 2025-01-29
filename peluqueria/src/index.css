@@ -1,0 +1,19 @@
+:root{
+    --orange: #F07E01;
+    --brown: #735B51;
+    --lime: #AAC205;
+}
+
+@font-face {
+    font-family: "font-text";
+    src: url(./assets/fonts/Quicksand_Book.otf);
+}
+@font-face {
+    font-family: "font-title";
+    src: url(./assets/fonts/Recoleta-RegularDEMO.otf);
+}
+
+body{
+    margin: 0;
+    background: var(--brown);
+}
